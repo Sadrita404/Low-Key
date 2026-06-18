@@ -1,0 +1,12 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3.7V 1000mAh","For Power",1,4.00,"https://robu.in/product/wly394058-1000mah-3-7v-single-cell-rechargeable-lipo-battery/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWdcX-_zl24TZUAVRMutDtE-s&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2JD7DhBm-v2ap8rmUm_I9fVk5S-q5yNbBNK3C1dv9qvOZNibcULh4aAlkKEALw_wcB","robu"
+"1N4148W - Diodes","For PCB",64,1.22,"https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWfrTUQOFtDzh2WOTE6mOb68O&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2t_Lp5GxkC73WV2NLjuAgnec_jIEagisiTDGpmNO-dpRLqa2sy8hQaAm73EALw_wcB","robu"
+"Header Pin","For PCB ",2,1.16,"https://www.lioncircuits.com/parts/M20-8770542","lioncircuits"
+"Switch Slide SPDT","For Power On and OFF",1,1.70,"https://www.lioncircuits.com/parts/SSSS811101?srsltid=AfmBOoruSP53j7-kE4pq9Obq2AODclY0CesoIOaX6g8OJLfob7qDESah","lioncircuits"
+"Screw","For Fixing",4,0.00,"","Self Sourced"
+"Hot-swap Socket","For the PCb",64,6.15,"https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?utm_source=google&utm_medium=cpc&utm_campaign=artisan-keycap-pmc&utm_id=23015594144&utm_term&utm_content&gad_source=1&gad_campaignid=23015596244&gbraid=0AAAAAC4dMgPYjAgT6xww1n73jJH_wqaoe&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD08l6a1FFyZv3X14aC--LGzdBMKPsOJJNoZc2qkbK6bJV1IvSmJNXIaAnMmEALw_wcB","meckeys"
+"Plate Mount Stabilizers","For the Keys",2,4.20,"https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43389442261045","genesispc"
+"Promicro NRF52840","Main Controller Board",1,8.05,"https://robu.in/product/promicro-nrf52840-development-board/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWfs--c6uPlADbIhSG6ChmN4Q&gclid=Cj0KCQjwi8nRBhDhARIsAHZf_pZSfOtRqNQVh07LnpuTd_5yjW4OCO-AozR6QI6AGFNJJHI8vf7Z54MaAkpoEALw_wcB","robu"
+"Keycaps","For adding on the switches",64,21.20,"https://ctrlshiftstore.com/products/xvx-skyline-r2?variant=44385147977821","ctrlshiftstore"
+"3 pin Low Profile Switch","For the PCB board",64,12.70,"https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/?utm_source=google&utm_medium=cpc&utm_campaign=aula-wireless-pmc&utm_id=22030483332&utm_term&utm_content&gad_source=1&gad_campaignid=22030526094&gbraid=0AAAAAC4dMgNSA9fCk7U5ufPw0kuDSaGae&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD0mjKcmYPXiSF3eC3uhxLUVoKEpWlqTxBOZl5EHBdAiCshMJioch84aAqZUEALw_wcB","meckeys"
+"PCB","Main Board",1,16.00,"https://jlcpcb.com/","jlcpcb"
