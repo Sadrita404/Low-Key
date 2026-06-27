@@ -178,7 +178,7 @@ I have choose this project because I have a big fan of the Apple magic keyboard 
 | **1N4148W - Diodes** | For PCB | 64 | $0.02 | $1.22 | [Robu](https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs/) |
 | **Header Pin** | For PCB | 2 | $0.58 | $1.16 | [Lion Circuits](https://www.lioncircuits.com/parts/M20-8770542) |
 | **Switch Slide SPDT** | For Power On and OFF | 1 | $1.70 | $1.70 | [Lion Circuits](https://www.lioncircuits.com/parts/SSSS811101) |
-| **Screw** | For Fixing | 4 | $0.00 | $0.00 | *Self Sourced* |
+| **Screw(M4x10mm)** | For Fixing | 4 | $0.023 | $0.093 | [Onlyscrew](https://onlyscrews.in/products/m4-x-10mm-hex-allen-button-head-high-tensile10-9-black-oxide-screw-dia-4mm-length-10mm?currency=INR&country=IN&variant=49998575993145&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SSC2iobyr1JnmoScJm2hhdWI&gclid=CjwKCAjw6f3RBhApEiwAMaCqWeeqy7ts2FHdbF68ClVPVea7u91EIUDmBj3ym2QF8aJOrLDm1FMqjBoCckkQAvD_BwE) |
 | **Hot-swap Socket** | For the PCB | 64 | $0.10 | $6.15 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | **Plate Mount Stabilizers** | For the Keys | 2 | $2.10 | $4.20 | [GenesisPC](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black) |
 | **Promicro NRF52840** | Main Controller Board | 1 | $8.05 | $8.05 | [Robu](https://robu.in/product/promicro-nrf52840-development-board/) |
@@ -220,5 +220,8 @@ I have choose this project because I have a big fan of the Apple magic keyboard 
     </tr>
   </table>
 </div>
+
+I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts..
+Which is also updated on the BOM csv file too..
 
 **Project Under Hack Club**
