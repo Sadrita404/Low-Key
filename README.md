@@ -18,7 +18,7 @@
 ## Overview
 It is a 60% Low Profile Keyboard trying to build an mac magic keyboard alternative. And for this project I have choose the Promicro NRF52840 Controller Board as it is cost effective and easy to setup . I have also make this keyboard too low profile so that it can be easy to type in it . I have also make it battery powered and It can be worked over bluetooth that makes it very easy to use.
 
-### Why I chose this project?
+### Why I choose this project?
 I have choose this project because I have a big fan of the Apple magic keyboard due to its low profile and good looking so from the starting I wanted to create something like which is low profile. But if I going to buy one, it would cost me a lot and I cannot customise it so I wanted to make something which is customisable, so I have made this in the 60% layout keyboard which is in the low profile and I love to make it and I have also made the PCB so I can customise it. I have also put my name on the PCB. And I have loved the whole process from designing in the PCB to making assembly file in fusion
 
 <div id="-screenshots" align="center">
